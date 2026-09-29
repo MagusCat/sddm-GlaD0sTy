@@ -3,6 +3,7 @@ Name=GlaD0sTy
 Description=GLaDOS / Aperture CRT terminal login
 Type=sddm-theme
 Version=2.0
+Screenshot=assets/preview.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 Theme-API=2.0

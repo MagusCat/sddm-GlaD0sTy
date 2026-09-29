@@ -20,6 +20,9 @@ GlaD0sTy is a login theme for SDDM. It turns your login screen into an Aperture 
 terminal: orange-phosphor CRT, scanlines, glitches, and a resident artificial intelligence who
 comments on your typing.
 
+![GlaD0sTy login terminal](assets/preview.png)
+<sub>*Fig. 1 — Secure terminal in standby. Test subject not yet detected.*</sub>
+
 ---
 
 ## §1 · Pre-Test Requirements
@@ -147,6 +150,7 @@ GlaD0sTy/
 └── assets/
     ├── background.png
     ├── glados.png
+    ├── preview.png   # Fig. 1
     └── Dot.ttf       # 5x7 dot-matrix font
 ```
 
