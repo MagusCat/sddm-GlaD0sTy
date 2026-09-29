@@ -1,0 +1,9 @@
+[SddmGreeterTheme]
+Name=GlaD0sTy
+Description=GLaDOS / Aperture CRT terminal login
+Type=sddm-theme
+Version=2.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-API=2.0
+QtVersion=6
